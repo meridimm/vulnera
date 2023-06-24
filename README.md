@@ -1,5 +1,12 @@
 # vulnera
+Tout d'abord vous pouvez télécharger le fichier ou copier le code puus l'enregistrer dans un fichier avec l'extension "".py""
 
+`Lien du fichier vulnera.py`
+
+https://github.com/meridimm/vulnera/blob/main/vulnera.py
+.
+.
+.
 ```markdown
 # Analyse de vulnérabilités
 
