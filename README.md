@@ -1,5 +1,5 @@
 # vulnera
-Tout d'abord vous pouvez télécharger le fichier ou copier le code puus l'enregistrer dans un fichier avec l'extension "".py""
+Tout d'abord vous pouvez télécharger le fichier ou copier le code puis l'enregistrer dans un fichier avec le nom que vous voulez mais avec l'extension ` .py`
 
 `Lien du fichier vulnera.py`
 
